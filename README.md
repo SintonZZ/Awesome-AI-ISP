@@ -15,4 +15,8 @@ Collect some useful AI-ISP-related papers.
 - (**EMVD**) Efficient multi-stage video denoising with recurrent spatio-temporal fusion. [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Maggioni_Efficient_Multi-Stage_Video_Denoising_With_Recurrent_Spatio-Temporal_Fusion_CVPR_2021_paper.pdf) [[code]](https://github.com/Baymax-chen/EMVD)
 - (**Improved EMVD**) Improved EMVD for RAW video denoising. [[paper]](https://gretsi.fr/data/colloque/pdf/2022_zheng966.pdf)
 ## HDR
+- Deep high dynamic range imaging of dynamic scenes. [[SIGGRAPH 2017]](https://people.engr.tamu.edu/nimak/Data/SIGGRAPH17_HDR_LoRes.pdf) [[code]](https://github.com/TH3CHARLie/deep-high-dynamic-range)
+- Attention-guided network for ghost-free high dynamic range imaging. [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yan_Attention-Guided_Network_for_Ghost-Free_High_Dynamic_Range_Imaging_CVPR_2019_paper.pdf) [[code]](https://github.com/qingsenyangit/AHDRNet)
+- ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging. [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Liu_ADNet_Attention-Guided_Deformable_Convolutional_Network_for_High_Dynamic_Range_Imaging_CVPRW_2021_paper.pdf) [[code]](https://github.com/liuzhen03/ADNet)
 ## Image Enhancement
+- Learning Tone Curves for Local Image Enhancement. [[IEEE ACCESS 2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9784427) [[code]](https://github.com/SamsungLabs/ltmnet)
