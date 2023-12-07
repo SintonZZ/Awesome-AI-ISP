@@ -3,6 +3,9 @@ Collect some useful AI-ISP-related papers.
 ## Image denoise
 - Architecture
   - (**SID**) Learning to See in the Dark. [[CVPR 2018]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Learning_to_See_CVPR_2018_paper.pdf) [[code]](https://github.com/cchen156/Learning-to-See-in-the-Dark)
+  - (**NBNet**) NBNet: Noise Basis Learning for Image Denoising with Subspace Projection. [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cheng_NBNet_Noise_Basis_Learning_for_Image_Denoising_With_Subspace_Projection_CVPR_2021_paper.pdf) [[code]](https://github.com/MegEngine/NBNet)
+  - (**NAFNet**) Simple Baselines for Image Restoration. [[ECCV 2022]](https://arxiv.org/pdf/2204.04676.pdf) [[code]](https://github.com/megvii-research/NAFNet)
+  - (**KBNet**) KBNet: Kernel Basis Network for Image Restoration. [[paper]](https://arxiv.org/pdf/2303.02881.pdf) [[code]](https://github.com/zhangyi-3/kbnet)
 - Noise Modeling
   - (**ELD**) Physics-based Noise Modeling for Extreme Low-light Photography. [[TPAMI 2021]](https://arxiv.org/pdf/2108.02158.pdf) [[code]](https://github.com/Vandermode/ELD)
   - (**SFRN**) Rethinking Noise Synthesis and Modeling in Raw Denoising. [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Rethinking_Noise_Synthesis_and_Modeling_in_Raw_Denoising_ICCV_2021_paper.pdf)  [[code]](https://github.com/zhangyi-3/Noise-Synthesis)
