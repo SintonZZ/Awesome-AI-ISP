@@ -10,6 +10,7 @@ Collect some useful AI-ISP-related papers.
   - (**LLD**) Physics-Guided ISO-Dependent Sensor Noise Modeling for Extreme Low-Light Photography. [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_Physics-Guided_ISO-Dependent_Sensor_Noise_Modeling_for_Extreme_Low-Light_Photography_CVPR_2023_paper.pdf)
   - (**LED**) Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising. [[ICCV 2023]](https://arxiv.org/abs/2308.03448) [[ZhiHu]](https://zhuanlan.zhihu.com/p/648242095) [[code]](https://github.com/Srameo/LED)
 - Dateset-related
+  - Learning Raw Image Denoising with Bayer Pattern Unification and Bayer Preserving Augmentation. [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Liu_Learning_Raw_Image_Denoising_With_Bayer_Pattern_Unification_and_Bayer_CVPRW_2019_paper.pdf) [[code]](https://github.com/Jiaming-Liu/BayerUnifyAug)
   
 ## Video denoise
 - **EDVR**: Video Restoration with Enhanced Deformable Convolutional Networks. [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Wang_EDVR_Video_Restoration_With_Enhanced_Deformable_Convolutional_Networks_CVPRW_2019_paper.pdf) [[code]](https://github.com/xinntao/EDVR)
