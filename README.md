@@ -18,6 +18,7 @@ A list of awesome AI-ISP works.
   - (**PMN**) Learnability Enhancement for Low-Light Raw Image Denoising: A Data Perspective. [[TPAMI 2023]](https://ieeexplore.ieee.org/document/10207751) [[code]](https://github.com/megvii-research/PMN/tree/TPAMI) [[ZhiHu]](https://zhuanlan.zhihu.com/p/651674070) 
   - (**LLD**) Physics-Guided ISO-Dependent Sensor Noise Modeling for Extreme Low-Light Photography. [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_Physics-Guided_ISO-Dependent_Sensor_Noise_Modeling_for_Extreme_Low-Light_Photography_CVPR_2023_paper.pdf)
   - (**LED**) Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising. [[ICCV 2023]](https://arxiv.org/abs/2308.03448) [[ZhiHu]](https://zhuanlan.zhihu.com/p/648242095) [[code]](https://github.com/Srameo/LED)
+  - (**PNNP**) Physics-guided Noise Neural Proxy for Low-light Raw Image Denoising. [[arXiv]](https://arxiv.org/abs/2308.03448)
 - Dateset-related
   - Learning Raw Image Denoising with Bayer Pattern Unification and Bayer Preserving Augmentation. [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Liu_Learning_Raw_Image_Denoising_With_Bayer_Pattern_Unification_and_Bayer_CVPRW_2019_paper.pdf) [[code]](https://github.com/Jiaming-Liu/BayerUnifyAug)
   
