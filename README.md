@@ -15,6 +15,7 @@ A list of awesome AI-ISP works.
 - Noise Modeling
   - (**ELD**) Physics-based Noise Modeling for Extreme Low-light Photography. [[TPAMI 2021]](https://arxiv.org/pdf/2108.02158.pdf) [[code]](https://github.com/Vandermode/ELD)
   - (**SFRN**) Rethinking Noise Synthesis and Modeling in Raw Denoising. [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Rethinking_Noise_Synthesis_and_Modeling_in_Raw_Denoising_ICCV_2021_paper.pdf)  [[code]](https://github.com/zhangyi-3/Noise-Synthesis)
+  - (**PNGAN**) Learning to Generate Realistic Noisy Images via Pixel-level Noise-aware Adversarial Training. [[NeurIPS 2021]](https://arxiv.org/abs/2204.02844)  [[code]](https://github.com/caiyuanhao1998/PNGAN)
   - (**PMN**) Learnability Enhancement for Low-Light Raw Image Denoising: A Data Perspective. [[TPAMI 2023]](https://ieeexplore.ieee.org/document/10207751) [[code]](https://github.com/megvii-research/PMN/tree/TPAMI) [[ZhiHu]](https://zhuanlan.zhihu.com/p/651674070) 
   - (**LLD**) Physics-Guided ISO-Dependent Sensor Noise Modeling for Extreme Low-Light Photography. [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_Physics-Guided_ISO-Dependent_Sensor_Noise_Modeling_for_Extreme_Low-Light_Photography_CVPR_2023_paper.pdf)
   - (**LED**) Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising. [[ICCV 2023]](https://arxiv.org/abs/2308.03448) [[ZhiHu]](https://zhuanlan.zhihu.com/p/648242095) [[code]](https://github.com/Srameo/LED)
