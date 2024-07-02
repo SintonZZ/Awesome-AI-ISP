@@ -42,3 +42,7 @@ A list of awesome AI-ISP works.
 - Contrast enhancement
   - Learning Tone Curves for Local Image Enhancement. [[IEEE ACCESS 2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9784427) [[code]](https://github.com/SamsungLabs/ltmnet)
 
+## Resources
+- NTIRE (New Trends in Image Restoration and Enhancement)
+- MIPI (Mobile Intelligent Photography and Imaging)
+
