@@ -5,6 +5,7 @@ A list of awesome AI-ISP works.
 - [Video denoise](#video-denoise)
 - [HDR](#hdr)
 - [Image enhancement](#image-enhancement)
+- [Resources](#Resources)
   
 ## Image denoise
 - Architecture
