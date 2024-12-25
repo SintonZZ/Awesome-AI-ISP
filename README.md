@@ -27,6 +27,7 @@ A list of awesome AI-ISP works.
 - Dateset-related
   - Learning Raw Image Denoising with Bayer Pattern Unification and Bayer Preserving Augmentation. [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Liu_Learning_Raw_Image_Denoising_With_Bayer_Pattern_Unification_and_Bayer_CVPRW_2019_paper.pdf) [[code]](https://github.com/Jiaming-Liu/BayerUnifyAug)
   - Improving Image Restoration by Revisiting Global Information Aggregation. [[ECCV 2022]](https://link.springer.com/chapter/10.1007/978-3-031-20071-7_4) [[code]](https://github.com/megvii-research/TLC)
+  - Day-to-Night Image Synthesis for Training Nighttime Neural ISPs. [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Punnappurath_Day-to-Night_Image_Synthesis_for_Training_Nighttime_Neural_ISPs_CVPR_2022_paper.pdf) [[code]](https://github.com/SamsungLabs/day-to-night)
   
 ## Video denoise
 - **EDVR**: Video Restoration with Enhanced Deformable Convolutional Networks. [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Wang_EDVR_Video_Restoration_With_Enhanced_Deformable_Convolutional_Networks_CVPRW_2019_paper.pdf) [[code]](https://github.com/xinntao/EDVR)
