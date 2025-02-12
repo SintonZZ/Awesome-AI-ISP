@@ -54,4 +54,5 @@ A list of awesome AI-ISP works.
 ## Resources
 - NTIRE (New Trends in Image Restoration and Enhancement)
 - MIPI (Mobile Intelligent Photography and Imaging)
+- MAI (Mobile AI)
 
