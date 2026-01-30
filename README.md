@@ -58,3 +58,6 @@ A list of awesome AI-ISP works.
 - MIPI (Mobile Intelligent Photography and Imaging)
 - MAI (Mobile AI)
 - AIM (Advances in Image Manipulation)
+- [Infinite-ISP](https://github.com/10x-Engineers/Infinite-ISP?tab=readme-ov-file)
+- [openISP](https://github.com/cruxopen/openISP)
+- [fast-openISP](https://github.com/QiuJueqin/fast-openISP)
