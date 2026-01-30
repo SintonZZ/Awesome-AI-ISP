@@ -61,3 +61,4 @@ A list of awesome AI-ISP works.
 - [Infinite-ISP](https://github.com/10x-Engineers/Infinite-ISP?tab=readme-ov-file)
 - [openISP](https://github.com/cruxopen/openISP)
 - [fast-openISP](https://github.com/QiuJueqin/fast-openISP)
+- [Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups)
