@@ -51,6 +51,7 @@ A list of awesome AI-ISP works.
 
 ## Tone Mapping
 - High-resolution photo enhancement in real-time: a laplacian pyramid network.[[TPAMI 2025]](https://arxiv.org/pdf/2510.11613) [[code]](https://github.com/fengzhang427/LLF-LUT)
+- Learning Pixel-adaptive Multi-layer Perceptrons for Real-time Image Enhancement.[[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Lou_Learning_Pixel-adaptive_Multi-layer_Perceptrons_for_Real-time_Image_Enhancement_ICCV_2025_paper.pdf)[[code]](https://github.com/CVL-UESTC/BPAM)
 
 ## Image Enhancement
 - Low-Light image enhancement
