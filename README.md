@@ -49,7 +49,7 @@ A list of awesome AI-ISP works.
 - ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging. [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Liu_ADNet_Attention-Guided_Deformable_Convolutional_Network_for_High_Dynamic_Range_Imaging_CVPRW_2021_paper.pdf) [[code]](https://github.com/liuzhen03/ADNet)
 
 ## Tone Mapping
-- Pyramid Reconstruction Network for Tone Mapping: Pyramid Reconstruction Network for Tone Mapping.[[TPAMI 2025]](https://arxiv.org/pdf/2510.11613)[[code]](https://github.com/fengzhang427/LLF-LUT)
+- Pyramid Reconstruction Network for Tone Mapping: Pyramid Reconstruction Network for Tone Mapping.[[TPAMI 2025]](https://arxiv.org/pdf/2510.11613) [[code]](https://github.com/fengzhang427/LLF-LUT)
 
 ## Image Enhancement
 - Low-Light image enhancement
