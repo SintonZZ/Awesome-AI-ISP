@@ -40,10 +40,15 @@ A list of awesome AI-ISP works.
 - Dancing under the stars: video denoising in starlight. [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Monakhova_Dancing_Under_the_Stars_Video_Denoising_in_Starlight_CVPR_2022_paper.pdf) [[code]](https://github.com/monakhova/starlight_denoising/tree/main)
 - (**ShiftNet**)A Simple Baseline for Video Restoration with Grouped Spatial-temporal Shift. [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_A_Simple_Baseline_for_Video_Restoration_With_Grouped_Spatial-Temporal_Shift_CVPR_2023_paper.pdf) [[code]](https://github.com/dasongli1/Shift-Net)
 - (**BRVE**)Binarized Low-light Raw Video Enhancement. [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Binarized_Low-light_Raw_Video_Enhancement_CVPR_2024_paper.pdf) [[code]](https://github.com/zhanggengchen/BRVE)
+- 
 ## HDR
 - Deep high dynamic range imaging of dynamic scenes. [[SIGGRAPH 2017]](https://people.engr.tamu.edu/nimak/Data/SIGGRAPH17_HDR_LoRes.pdf) [[code]](https://github.com/TH3CHARLie/deep-high-dynamic-range)
 - Attention-guided network for ghost-free high dynamic range imaging. [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yan_Attention-Guided_Network_for_Ghost-Free_High_Dynamic_Range_Imaging_CVPR_2019_paper.pdf) [[code]](https://github.com/qingsenyangit/AHDRNet)
 - ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging. [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Liu_ADNet_Attention-Guided_Deformable_Convolutional_Network_for_High_Dynamic_Range_Imaging_CVPRW_2021_paper.pdf) [[code]](https://github.com/liuzhen03/ADNet)
+
+## Tone Mapping
+- [Pyramid Reconstruction Network for Tone Mapping: Pyramid Reconstruction Network for Tone Mapping][[TPAMI 2025]](High-resolution Photo Enhancement in Real-time: A Laplacian Pyramid Network)[[code]](https://github.com/fengzhang427/LLF-LUT)
+
 ## Image Enhancement
 - Low-Light image enhancement
   - Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation. [[TPAMI 2021]](https://arxiv.org/pdf/2103.00860.pdf) [[code]](https://github.com/Li-Chongyi/Zero-DCE)
@@ -62,3 +67,9 @@ A list of awesome AI-ISP works.
 - [openISP](https://github.com/cruxopen/openISP)
 - [fast-openISP](https://github.com/QiuJueqin/fast-openISP)
 - [Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups)
+
+## Researchers
+- [Ying Fu](https://ying-fu.github.io/) 
+- [Shuaicheng LIU](http://www.liushuaicheng.org/)
+- [Chao Dong](https://xpixel.group/index.html)
+- [Hansen Feng](https://fenghansen.github.io/)
