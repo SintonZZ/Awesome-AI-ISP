@@ -47,9 +47,10 @@ A list of awesome AI-ISP works.
 - Deep high dynamic range imaging of dynamic scenes. [[SIGGRAPH 2017]](https://people.engr.tamu.edu/nimak/Data/SIGGRAPH17_HDR_LoRes.pdf) [[code]](https://github.com/TH3CHARLie/deep-high-dynamic-range)
 - Attention-guided network for ghost-free high dynamic range imaging. [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yan_Attention-Guided_Network_for_Ghost-Free_High_Dynamic_Range_Imaging_CVPR_2019_paper.pdf) [[code]](https://github.com/qingsenyangit/AHDRNet)
 - ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging. [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Liu_ADNet_Attention-Guided_Deformable_Convolutional_Network_for_High_Dynamic_Range_Imaging_CVPRW_2021_paper.pdf) [[code]](https://github.com/liuzhen03/ADNet)
+- UltraFusion: Ultra High Dynamic Imaging using Exposure Fusion.[[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_UltraFusion_Ultra_High_Dynamic_Imaging_using_Exposure_Fusion_CVPR_2025_paper.pdf) [[code]](https://github.com/OpenImagingLab/UltraFusion)
 
 ## Tone Mapping
-- Pyramid Reconstruction Network for Tone Mapping: Pyramid Reconstruction Network for Tone Mapping.[[TPAMI 2025]](https://arxiv.org/pdf/2510.11613) [[code]](https://github.com/fengzhang427/LLF-LUT)
+- High-resolution photo enhancement in real-time: a laplacian pyramid network.[[TPAMI 2025]](https://arxiv.org/pdf/2510.11613) [[code]](https://github.com/fengzhang427/LLF-LUT)
 
 ## Image Enhancement
 - Low-Light image enhancement
@@ -70,8 +71,9 @@ A list of awesome AI-ISP works.
 - [fast-openISP](https://github.com/QiuJueqin/fast-openISP)
 - [Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups)
 
-## Researchers
+## Researchers/Groups
 - [Ying Fu](https://ying-fu.github.io/) 
 - [Shuaicheng LIU](http://www.liushuaicheng.org/)
 - [Chao Dong](https://xpixel.group/index.html)
 - [Hansen Feng](https://fenghansen.github.io/)
+- [OpenImagingLab](https://github.com/OpenImagingLab)
