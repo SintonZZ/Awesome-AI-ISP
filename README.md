@@ -42,6 +42,7 @@ A list of awesome AI-ISP works.
 - Dancing under the stars: video denoising in starlight. [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Monakhova_Dancing_Under_the_Stars_Video_Denoising_in_Starlight_CVPR_2022_paper.pdf) [[code]](https://github.com/monakhova/starlight_denoising/tree/main)
 - (**ShiftNet**) A Simple Baseline for Video Restoration with Grouped Spatial-temporal Shift. [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_A_Simple_Baseline_for_Video_Restoration_With_Grouped_Spatial-Temporal_Shift_CVPR_2023_paper.pdf) [[code]](https://github.com/dasongli1/Shift-Net)
 - (**BRVE**) Binarized Low-light Raw Video Enhancement. [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Binarized_Low-light_Raw_Video_Enhancement_CVPR_2024_paper.pdf) [[code]](https://github.com/zhanggengchen/BRVE)
+- **Rvideformer**: Efficient raw video denoising transformer with a larger benchmark dataset. [[TCSVT 2025]](https://arxiv.org/abs/2305.00767) [[code]](https://github.com/cao-cong/RViDeformer)
 
 ## HDR
 - Deep high dynamic range imaging of dynamic scenes. [[SIGGRAPH 2017]](https://people.engr.tamu.edu/nimak/Data/SIGGRAPH17_HDR_LoRes.pdf) [[code]](https://github.com/TH3CHARLie/deep-high-dynamic-range)
