@@ -4,8 +4,8 @@ A list of awesome AI-ISP works.
 - [Image denoise](#image-denoise)
 - [Video denoise](#video-denoise)
 - [HDR](#hdr)
-- [Tone Mapping](#tone-mapping)
 - [Image enhancement](#image-enhancement)
+- [Low-Light enhancement](#low-light-enhancement)
 - [Resources](#resources)
 - [Researchers](#researchers)
   
@@ -53,19 +53,17 @@ A list of awesome AI-ISP works.
 - ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging. [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Liu_ADNet_Attention-Guided_Deformable_Convolutional_Network_for_High_Dynamic_Range_Imaging_CVPRW_2021_paper.pdf) [[code]](https://github.com/liuzhen03/ADNet)
 - UltraFusion: Ultra High Dynamic Imaging using Exposure Fusion.[[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_UltraFusion_Ultra_High_Dynamic_Imaging_using_Exposure_Fusion_CVPR_2025_paper.pdf) [[code]](https://github.com/OpenImagingLab/UltraFusion)
 
-## Tone Mapping
+## Image enhancement
+- Learning Tone Curves for Local Image Enhancement. [[IEEE ACCESS 2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9784427) [[code]](https://github.com/SamsungLabs/ltmnet)
 - High-resolution photo enhancement in real-time: a laplacian pyramid network.[[TPAMI 2025]](https://arxiv.org/pdf/2510.11613) [[code]](https://github.com/fengzhang427/LLF-LUT)
 - Learning Pixel-adaptive Multi-layer Perceptrons for Real-time Image Enhancement.[[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Lou_Learning_Pixel-adaptive_Multi-layer_Perceptrons_for_Real-time_Image_Enhancement_ICCV_2025_paper.pdf)[[code]](https://github.com/CVL-UESTC/BPAM)
 
-## Image Enhancement
-- Low-Light image enhancement
-  - (**Zero-DCE**) Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation. [[TPAMI 2021]](https://arxiv.org/pdf/2103.00860.pdf) [[code]](https://github.com/Li-Chongyi/Zero-DCE)
-  - (**RUAS**) Retinex-inspired unrolling with cooperative prior architecture search for low-light image enhancement. [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Retinex-Inspired_Unrolling_With_Cooperative_Prior_Architecture_Search_for_Low-Light_Image_CVPR_2021_paper.pdf) [[code]](https://github.com/KarelZhang/RUAS)
-  - (**SCI**) Toward Fast, Flexible, and Robust Low-Light Image Enhancement. [[CVPR 2022(Oral)]](https://openaccess.thecvf.com/content/CVPR2022/html/Ma_Toward_Fast_Flexible_and_Robust_Low-Light_Image_Enhancement_CVPR_2022_paper.html) [[code]](https://github.com/vis-opt-group/SCI)
-  - **Retinexformer**: One-stage Retinex-based Transformer for Low-light Image Enhancement. [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_Retinexformer_One-stage_Retinex-based_Transformer_for_Low-light_Image_Enhancement_ICCV_2023_paper.pdf) [[code]](https://github.com/caiyuanhao1998/Retinexformer)
-  - **HVI**: A New Color Space for Low-light Image Enhancement. [[CVPR 2025]](https://arxiv.org/abs/2502.20272) [[code]](https://github.com/Fediory/HVI-CIDNet)
-- Contrast enhancement
-  - Learning Tone Curves for Local Image Enhancement. [[IEEE ACCESS 2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9784427) [[code]](https://github.com/SamsungLabs/ltmnet)
+## Low-Light enhancement
+- (**Zero-DCE**) Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation. [[TPAMI 2021]](https://arxiv.org/pdf/2103.00860.pdf) [[code]](https://github.com/Li-Chongyi/Zero-DCE)
+- (**RUAS**) Retinex-inspired unrolling with cooperative prior architecture search for low-light image enhancement. [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Retinex-Inspired_Unrolling_With_Cooperative_Prior_Architecture_Search_for_Low-Light_Image_CVPR_2021_paper.pdf) [[code]](https://github.com/KarelZhang/RUAS)
+- (**SCI**) Toward Fast, Flexible, and Robust Low-Light Image Enhancement. [[CVPR 2022(Oral)]](https://openaccess.thecvf.com/content/CVPR2022/html/Ma_Toward_Fast_Flexible_and_Robust_Low-Light_Image_Enhancement_CVPR_2022_paper.html) [[code]](https://github.com/vis-opt-group/SCI)
+- **Retinexformer**: One-stage Retinex-based Transformer for Low-light Image Enhancement. [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_Retinexformer_One-stage_Retinex-based_Transformer_for_Low-light_Image_Enhancement_ICCV_2023_paper.pdf) [[code]](https://github.com/caiyuanhao1998/Retinexformer)
+- **HVI**: A New Color Space for Low-light Image Enhancement. [[CVPR 2025]](https://arxiv.org/abs/2502.20272) [[code]](https://github.com/Fediory/HVI-CIDNet)
 
 ## Resources
 - NTIRE (New Trends in Image Restoration and Enhancement)
@@ -77,7 +75,7 @@ A list of awesome AI-ISP works.
 - [fast-openISP](https://github.com/QiuJueqin/fast-openISP)
 - [Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups)
 
-## Researchers/Groups
+## Researchers
 - [Ying Fu](https://ying-fu.github.io/) 
 - [Shuaicheng LIU](http://www.liushuaicheng.org/)
 - [Chao Dong](https://xpixel.group/index.html)
