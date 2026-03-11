@@ -17,6 +17,7 @@ A list of awesome AI-ISP works.
   - (**NAFNet**) Simple Baselines for Image Restoration. [[ECCV 2022]](https://arxiv.org/pdf/2204.04676.pdf) [[code]](https://github.com/megvii-research/NAFNet)
   - (**CGNet**) CascadedGaze: Efficiency in Global Context Extraction for Image Restoration. [[TMLR 2024]](https://arxiv.org/abs/2401.15235) [[code]](https://github.com/Ascend-Research/CascadedGaze)
   - (**SplitterNet**) Real-World Mobile Image Denoising Dataset with Efficient Baselines. [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/papers/Flepp_Real-World_Mobile_Image_Denoising_Dataset_with_Efficient_Baselines_CVPR_2024_paper.pdf) [[code]](https://github.com/rflepp/SplitterNet-Efficient-Mobile-Denoising-Models-CVPR2024)
+  - **TinyLUT**: Tiny Look-Up Table for Efficient Image Restoration at the Edge. [[NeurIPS 2024]](http://proceedings.neurips.cc/paper_files/paper/2024/file/9b01c4a7d3fc49875dad3c13848bcd9e-Paper-Conference.pdf) [[code]](https://github.com/Jonas-KD/TinyLUT)
 - Noise Modeling
   - (**ELD**) Physics-based Noise Modeling for Extreme Low-light Photography. [[TPAMI 2021]](https://arxiv.org/pdf/2108.02158.pdf) [[code]](https://github.com/Vandermode/ELD)
   - (**SFRN**) Rethinking Noise Synthesis and Modeling in Raw Denoising. [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Rethinking_Noise_Synthesis_and_Modeling_in_Raw_Denoising_ICCV_2021_paper.pdf)  [[code]](https://github.com/zhangyi-3/Noise-Synthesis)
