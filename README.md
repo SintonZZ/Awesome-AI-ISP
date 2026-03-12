@@ -54,6 +54,7 @@ A list of awesome AI-ISP works.
 - UltraFusion: Ultra High Dynamic Imaging using Exposure Fusion.[[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_UltraFusion_Ultra_High_Dynamic_Imaging_using_Exposure_Fusion_CVPR_2025_paper.pdf) [[code]](https://github.com/OpenImagingLab/UltraFusion)
 
 ## Image enhancement
+- (**CSRNet**) Conditional sequential modulation for efficient global image retouching.[[ECCV 2020]](https://arxiv.org/pdf/2009.10390) [[code]](https://github.com/hejingwenhejingwen/CSRNet)
 - Learning Tone Curves for Local Image Enhancement. [[IEEE ACCESS 2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9784427) [[code]](https://github.com/SamsungLabs/ltmnet)
 - High-resolution photo enhancement in real-time: a laplacian pyramid network.[[TPAMI 2025]](https://arxiv.org/pdf/2510.11613) [[code]](https://github.com/fengzhang427/LLF-LUT)
 - Learning Pixel-adaptive Multi-layer Perceptrons for Real-time Image Enhancement.[[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Lou_Learning_Pixel-adaptive_Multi-layer_Perceptrons_for_Real-time_Image_Enhancement_ICCV_2025_paper.pdf)[[code]](https://github.com/CVL-UESTC/BPAM)
