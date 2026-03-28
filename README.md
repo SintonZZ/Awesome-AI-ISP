@@ -76,7 +76,6 @@ A list of awesome AI-ISP works.
   - (**RUAS**) Retinex-inspired unrolling with cooperative prior architecture search for low-light image enhancement. [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Retinex-Inspired_Unrolling_With_Cooperative_Prior_Architecture_Search_for_Low-Light_Image_CVPR_2021_paper.pdf) [[code]](https://github.com/KarelZhang/RUAS)
   - (**SCI**) Toward Fast, Flexible, and Robust Low-Light Image Enhancement. [[CVPR 2022(Oral)]](https://openaccess.thecvf.com/content/CVPR2022/html/Ma_Toward_Fast_Flexible_and_Robust_Low-Light_Image_Enhancement_CVPR_2022_paper.html) [[code]](https://github.com/vis-opt-group/SCI)
   - **Retinexformer**: One-stage Retinex-based Transformer for Low-light Image Enhancement. [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_Retinexformer_One-stage_Retinex-based_Transformer_for_Low-light_Image_Enhancement_ICCV_2023_paper.pdf) [[code]](https://github.com/caiyuanhao1998/Retinexformer)
-  - Rethinking Zero-DCE for Low-Light Image Enhancement. [[NPL 2024]](https://link.springer.com/content/pdf/10.1007/s11063-024-11565-5.pdf) [[code]](https://github.com/Wenhui-Luo/Zero-DiDCE)
   - **HVI**: A New Color Space for Low-light Image Enhancement. [[CVPR 2025]](https://arxiv.org/abs/2502.20272) [[code]](https://github.com/Fediory/HVI-CIDNet)
 
 ## Resources
