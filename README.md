@@ -35,6 +35,7 @@ A list of awesome AI-ISP works.
   - CycleISP: Real Image Restoration via Improved Data Synthesis. [[CVPR2020 Oral]](https://arxiv.org/abs/2003.07761) [[code]](https://github.com/swz30/CycleISP)
   - Improving Image Restoration by Revisiting Global Information Aggregation. [[ECCV 2022]](https://link.springer.com/chapter/10.1007/978-3-031-20071-7_4) [[code]](https://github.com/megvii-research/TLC)
   - Day-to-Night Image Synthesis for Training Nighttime Neural ISPs. [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Punnappurath_Day-to-Night_Image_Synthesis_for_Training_Nighttime_Neural_ISPs_CVPR_2022_paper.pdf) [[code]](https://github.com/SamsungLabs/day-to-night)
+  - Learning to See in the Extremely Dark. [[ICCV 2025]](https://arxiv.org/pdf/2506.21132) [[code]](https://github.com/JianghaiSCU/SIED)
   
 ## Video denoise
 - **EDVR**: Video Restoration with Enhanced Deformable Convolutional Networks. [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Wang_EDVR_Video_Restoration_With_Enhanced_Deformable_Convolutional_Networks_CVPRW_2019_paper.pdf) [[code]](https://github.com/xinntao/EDVR)
