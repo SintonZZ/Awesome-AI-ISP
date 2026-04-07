@@ -82,7 +82,7 @@ A list of awesome AI-ISP works.
 ## Resources
 - NTIRE (New Trends in Image Restoration and Enhancement)
 - MIPI (Mobile Intelligent Photography and Imaging)
-- MAI (Mobile AI)
+- MAI (Mobile AI Workshop)
 - AIM (Advances in Image Manipulation)
 - [Infinite-ISP](https://github.com/10x-Engineers/Infinite-ISP?tab=readme-ov-file)
 - [openISP](https://github.com/cruxopen/openISP)
