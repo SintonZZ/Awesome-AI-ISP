@@ -72,6 +72,7 @@ A list of awesome AI-ISP works.
   - LoLI-Street
   - ExDark
   - DPDE
+  - Towards Realistic Low-Light Image Enhancement via ISP–Driven Data Modeling. [[paper]](https://arxiv.org/pdf/2504.12204) [[code]](https://github.com/wzhsysu/LLIE)
 - Architecture
   - (**Zero-DCE**) Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation. [[TPAMI 2021]](https://arxiv.org/pdf/2103.00860.pdf) [[code]](https://github.com/Li-Chongyi/Zero-DCE)
   - (**RUAS**) Retinex-inspired unrolling with cooperative prior architecture search for low-light image enhancement. [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Retinex-Inspired_Unrolling_With_Cooperative_Prior_Architecture_Search_for_Low-Light_Image_CVPR_2021_paper.pdf) [[code]](https://github.com/KarelZhang/RUAS)
