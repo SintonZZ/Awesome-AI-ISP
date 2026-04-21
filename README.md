@@ -64,15 +64,6 @@ A list of awesome AI-ISP works.
 
 ## Low-Light enhancement
 - Dataset
-  - LOL-v1
-  - LOL-v2
-  - SICE
-  - SID
-  - LSRW
-  - VE-LOL
-  - LoLI-Street
-  - ExDark
-  - DPDE
   - Towards Realistic Low-Light Image Enhancement via ISP–Driven Data Modeling. [[paper]](https://arxiv.org/pdf/2504.12204) [[code]](https://github.com/wzhsysu/LLIE)
   - Seeing in the Dark: Synthesizing Underexposure for More Robust Underwater Image Augmentation. [[WACV 2026]](https://openaccess.thecvf.com/content/WACV2026W/WVAQ/papers/Awad_Seeing_in_the_Dark_Synthesizing_Underexposure_for_More_Robust_Underwater_WACVW_2026_paper.pdf)
 - Architecture
