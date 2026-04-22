@@ -6,6 +6,7 @@ A list of awesome AI-ISP works.
 - [Video denoise](#video-denoise)
 - [HDR](#hdr)
 - [AWB](#awb)
+- [Demosaicing](#demosaicing)
 - [Image enhancement](#image-enhancement)
 - [Low-Light enhancement](#low-light-enhancement)
 - [Resources](#resources)
@@ -86,6 +87,10 @@ A list of awesome AI-ISP works.
 - Time-Aware Auto White Balance in Mobile Photography. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Afifi_Time-Aware_Auto_White_Balance_in_Mobile_Photography_ICCV_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/time-aware-awb)
 - Learning Camera-Agnostic White-Balance Preferences. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025W/MIPI/papers/Zhao_Learning_Camera-Agnostic_White-Balance_Preferences_ICCVW_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/aesthetics-pref-awb)
 - Integral Fast Fourier Color Constancy. [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Integral_Fast_Fourier_Color_Constancy_CVPR_2025_paper.pdf)
+
+## Demosaicing
+- Joint Demosaicing and Denoising with Self Guidance. [[CVPR 2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Joint_Demosaicing_and_Denoising_With_Self_Guidance_CVPR_2020_paper.pdf) [[code]](https://github.com/laulampaul/sgnet)
+- Joint Denoising and Demosaicking with Green Channel Prior for Real-world Burst Images. [[TIP 2021]](https://arxiv.org/pdf/2101.09870) [[code]](https://github.com/GuoShi28/GCP-Net)
 
 ## Resources
 - NTIRE (New Trends in Image Restoration and Enhancement)
