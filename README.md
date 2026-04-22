@@ -1,17 +1,23 @@
 # Awesome-AI-ISP
 A list of awesome AI-ISP works. 
 ## 📜 Content
+- [ISP render](#isp-render)
 - [Image denoise](#image-denoise)
 - [Video denoise](#video-denoise)
 - [HDR](#hdr)
+- [AWB](#awb)
 - [Image enhancement](#image-enhancement)
 - [Low-Light enhancement](#low-light-enhancement)
 - [Resources](#resources)
 - [Researchers](#researchers)
-  
+
+## ISP render
+- Learning to See in the Dark. [[CVPR 2018]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Learning_to_See_CVPR_2018_paper.pdf) [[code]](https://github.com/cchen156/Learning-to-See-in-the-Dark)
+- Dnf: Decouple and feedback network for seeing in the dark. [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_DNF_Decouple_and_Feedback_Network_for_Seeing_in_the_Dark_CVPR_2023_paper.pdf) [[code]](https://github.com/Srameo/DNF)
+- Learning to See in the Extremely Dark. [[ICCV 2025]](https://arxiv.org/pdf/2506.21132) [[code]](https://github.com/JianghaiSCU/SIED)
+- Modular Neural Image Signal Processing. [[paper]](https://arxiv.org/pdf/2512.08564)
 ## Image denoise
 - Architecture
-  - (**SID**) Learning to See in the Dark. [[CVPR 2018]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Learning_to_See_CVPR_2018_paper.pdf) [[code]](https://github.com/cchen156/Learning-to-See-in-the-Dark)
   - (**PMRID**) Practical Deep Raw Image Denoising on Mobile Devices. [[ECCV 2020]](https://link.springer.com/chapter/10.1007/978-3-030-58539-6_1) [[code]](https://github.com/MegEngine/PMRID)
   - (**NBNet**) NBNet: Noise Basis Learning for Image Denoising with Subspace Projection. [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cheng_NBNet_Noise_Basis_Learning_for_Image_Denoising_With_Subspace_Projection_CVPR_2021_paper.pdf) [[code]](https://github.com/MegEngine/NBNet)
   - (**NAFNet**) Simple Baselines for Image Restoration. [[ECCV 2022]](https://arxiv.org/pdf/2204.04676.pdf) [[code]](https://github.com/megvii-research/NAFNet)
@@ -73,6 +79,13 @@ A list of awesome AI-ISP works.
   - (**SCI**) Toward Fast, Flexible, and Robust Low-Light Image Enhancement. [[CVPR 2022(Oral)]](https://openaccess.thecvf.com/content/CVPR2022/html/Ma_Toward_Fast_Flexible_and_Robust_Low-Light_Image_Enhancement_CVPR_2022_paper.html) [[code]](https://github.com/vis-opt-group/SCI)
   - **Retinexformer**: One-stage Retinex-based Transformer for Low-light Image Enhancement. [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_Retinexformer_One-stage_Retinex-based_Transformer_for_Low-light_Image_Enhancement_ICCV_2023_paper.pdf) [[code]](https://github.com/caiyuanhao1998/Retinexformer)
   - **HVI**: A New Color Space for Low-light Image Enhancement. [[CVPR 2025]](https://arxiv.org/abs/2502.20272) [[code]](https://github.com/Fediory/HVI-CIDNet)
+
+## AWB
+- Convolutional Color Constancy. [[paper]](https://arxiv.org/pdf/1507.00410)
+- (**C5**) Cross-Camera Convolutional Color Constancy. [[ICCV 2021]](https://arxiv.org/pdf/2011.11890) [[code]](https://github.com/mahmoudnafifi/C5)
+- Time-Aware Auto White Balance in Mobile Photography. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Afifi_Time-Aware_Auto_White_Balance_in_Mobile_Photography_ICCV_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/time-aware-awb)
+- Learning Camera-Agnostic White-Balance Preferences. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025W/MIPI/papers/Zhao_Learning_Camera-Agnostic_White-Balance_Preferences_ICCVW_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/aesthetics-pref-awb)
+- Integral Fast Fourier Color Constancy. [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Integral_Fast_Fourier_Color_Constancy_CVPR_2025_paper.pdf)
 
 ## Resources
 - NTIRE (New Trends in Image Restoration and Enhancement)
