@@ -10,7 +10,6 @@ A list of awesome AI-ISP works.
 - [Image retouching](#image-retouching)
 - [Low-Light enhancement](#low-light-enhancement)
 - [Resources](#resources)
-- [Researchers](#researchers)
 
 ## ISP render
 - Learning to See in the Dark. [[CVPR 2018]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Learning_to_See_CVPR_2018_paper.pdf) [[code]](https://github.com/cchen156/Learning-to-See-in-the-Dark)
