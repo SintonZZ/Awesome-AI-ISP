@@ -7,7 +7,7 @@ A list of awesome AI-ISP works.
 - [HDR](#hdr)
 - [AWB](#awb)
 - [Demosaicing](#demosaicing)
-- [Image enhancement](#image-enhancement)
+- [Image retouching](#image-retouching)
 - [Low-Light enhancement](#low-light-enhancement)
 - [Resources](#resources)
 - [Researchers](#researchers)
@@ -63,12 +63,13 @@ A list of awesome AI-ISP works.
 - Ghost-free High Dynamic Range Imaging with Context-aware Transformer. [[ECCV 2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790336.pdf) [[code]](https://github.com/megvii-research/HDR-Transformer)
 - UltraFusion: Ultra High Dynamic Imaging using Exposure Fusion.[[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_UltraFusion_Ultra_High_Dynamic_Imaging_using_Exposure_Fusion_CVPR_2025_paper.pdf) [[code]](https://github.com/OpenImagingLab/UltraFusion)
 
-## Image enhancement
+## Image retouching
 - (**CSRNet**) Conditional sequential modulation for efficient global image retouching.[[ECCV 2020]](https://arxiv.org/pdf/2009.10390) [[code]](https://github.com/hejingwenhejingwen/CSRNet)
 - (**3D-LUT**) Learning Image-adaptive 3D Lookup Tables for High Performance Photo Enhancement in Real-time.[[TPAMI 2020]](https://arxiv.org/pdf/2009.14468) [[code]](https://github.com/HuiZeng/Image-Adaptive-3DLUT)
+- **AdaInt**: Learning Adaptive Intervals for 3D Lookup Tables on Real-time Image Enhancement. [[CVPR 2022]](https://arxiv.org/pdf/2204.13983) [[code]](https://github.com/ImCharlesY/AdaInt)
 - Learning Tone Curves for Local Image Enhancement. [[IEEE ACCESS 2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9784427) [[code]](https://github.com/SamsungLabs/ltmnet)
-- (**LLF-LUT**)High-resolution photo enhancement in real-time: a laplacian pyramid network.[[TPAMI 2025]](https://arxiv.org/pdf/2510.11613) [[code]](https://github.com/fengzhang427/LLF-LUT)
-- (**BPAM**)Learning Pixel-adaptive Multi-layer Perceptrons for Real-time Image Enhancement.[[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Lou_Learning_Pixel-adaptive_Multi-layer_Perceptrons_for_Real-time_Image_Enhancement_ICCV_2025_paper.pdf)[[code]](https://github.com/CVL-UESTC/BPAM)
+- (**LLF-LUT**) High-resolution photo enhancement in real-time: a laplacian pyramid network.[[TPAMI 2025]](https://arxiv.org/pdf/2510.11613) [[code]](https://github.com/fengzhang427/LLF-LUT)
+- (**BPAM**) Learning Pixel-adaptive Multi-layer Perceptrons for Real-time Image Enhancement.[[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Lou_Learning_Pixel-adaptive_Multi-layer_Perceptrons_for_Real-time_Image_Enhancement_ICCV_2025_paper.pdf)[[code]](https://github.com/CVL-UESTC/BPAM)
 
 ## Low-Light enhancement
 - Dataset
