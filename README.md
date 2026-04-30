@@ -61,7 +61,7 @@ A list of awesome AI-ISP works.
 - Attention-guided network for ghost-free high dynamic range imaging. [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yan_Attention-Guided_Network_for_Ghost-Free_High_Dynamic_Range_Imaging_CVPR_2019_paper.pdf) [[code]](https://github.com/qingsenyangit/AHDRNet)
 - ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging. [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Liu_ADNet_Attention-Guided_Deformable_Convolutional_Network_for_High_Dynamic_Range_Imaging_CVPRW_2021_paper.pdf) [[code]](https://github.com/liuzhen03/ADNet)
 - Ghost-free High Dynamic Range Imaging with Context-aware Transformer. [[ECCV 2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790336.pdf) [[code]](https://github.com/megvii-research/HDR-Transformer)
-- UltraFusion: Ultra High Dynamic Imaging using Exposure Fusion.[[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_UltraFusion_Ultra_High_Dynamic_Imaging_using_Exposure_Fusion_CVPR_2025_paper.pdf) [[code]](https://github.com/OpenImagingLab/UltraFusion)
+- HDRFlow: Real-Time HDR Video Reconstruction with Large Motions. [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_HDRFlow_Real-Time_HDR_Video_Reconstruction_with_Large_Motions_CVPR_2024_paper.pdf) [[code]](https://github.com/OpenImagingLab/HDRFlow)
 
 ## Image retouching
 - (**CSRNet**) Conditional sequential modulation for efficient global image retouching.[[ECCV 2020]](https://arxiv.org/pdf/2009.10390) [[code]](https://github.com/hejingwenhejingwen/CSRNet)
