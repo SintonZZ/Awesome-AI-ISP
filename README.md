@@ -16,6 +16,7 @@ A list of awesome AI-ISP works.
 - Dnf: Decouple and feedback network for seeing in the dark. [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_DNF_Decouple_and_Feedback_Network_for_Seeing_in_the_Dark_CVPR_2023_paper.pdf) [[code]](https://github.com/Srameo/DNF)
 - Learning to See in the Extremely Dark. [[ICCV 2025]](https://arxiv.org/pdf/2506.21132) [[code]](https://github.com/JianghaiSCU/SIED)
 - Modular Neural Image Signal Processing. [[paper]](https://arxiv.org/pdf/2512.08564)
+- Learned Lightweight Smartphone ISP with Unpaired Data. [[CVPRW 2025]](https://arxiv.org/pdf/2505.10420) [[code]](https://github.com/AndreiiArhire/Learned-Lightweight-Smartphone-ISP-with-Unpaired-Data)
 ## Image denoise
 - Architecture
   - (**PMRID**) Practical Deep Raw Image Denoising on Mobile Devices. [[ECCV 2020]](https://link.springer.com/chapter/10.1007/978-3-030-58539-6_1) [[code]](https://github.com/MegEngine/PMRID)
