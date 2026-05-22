@@ -10,6 +10,7 @@ A list of awesome AI-ISP works.
 - [Demosaicing](#demosaicing)
 - [Image retouching](#image-retouching)
 - [Low-Light enhancement](#low-light-enhancement)
+- [Super-Resolution](#super-resolution)
 - [Resources](#resources)
 
 ## ISP render
@@ -99,6 +100,13 @@ A list of awesome AI-ISP works.
 ## Demosaicing
 - Joint Demosaicing and Denoising with Self Guidance. [[CVPR 2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Joint_Demosaicing_and_Denoising_With_Self_Guidance_CVPR_2020_paper.pdf) [[code]](https://github.com/laulampaul/sgnet)
 - Joint Denoising and Demosaicking with Green Channel Prior for Real-world Burst Images. [[TIP 2021]](https://arxiv.org/pdf/2101.09870) [[code]](https://github.com/GuoShi28/GCP-Net)
+
+## Super-Resolution
+- (**CARN**)Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network.[[ECCV 2018]](https://arxiv.org/pdf/1803.08664)
+- (**IMDN**)Lightweight Image Super-Resolution with Information Multi-distillation Network.[[ACM MM 2019]](https://arxiv.org/pdf/1909.11856v1) [[code]](https://github.com/Zheng222/IMDN)
+- (**RFDN**)Residual Feature Distillation Network for Lightweight Image Super-Resolution.[[AIM 2020 1st]](https://arxiv.org/abs/2009.11551) [[code]](https://github.com/njulj/RFDN)
+- ShuffleMixer: An Efficient ConvNet for Image Super-Resolution.[[NeurIPS 2022]](https://arxiv.org/pdf/2205.15175) [[code]](https://github.com/sunny2109/ShuffleMixer)
+- EchoSR: Efficient Context Harnessing for Lightweight Image Super-Resolution. [[Information Fusion 2026]](https://arxiv.org/pdf/2605.17470) [[code]](https://github.com/funnyWang-Echoes/EchoSR)
 
 ## Resources
 - NTIRE (New Trends in Image Restoration and Enhancement)
