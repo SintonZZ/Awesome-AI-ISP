@@ -71,6 +71,7 @@ A list of awesome AI-ISP works.
 - Deep tone mapping operator for high dynamic range images. [[TIP 2019]](https://arxiv.org/pdf/1908.04197) [[code]](https://github.com/Aakanksha-Rana/DeepTMO)
 
 ## Image retouching
+- (**HDRNet**) Deep Bilateral Learning for Real-Time Image Enhancement.[[ACM TOG 2017]](https://groups.csail.mit.edu/graphics/hdrnet/data/hdrnet.pdf) [[code]](https://groups.csail.mit.edu/graphics/hdrnet/)
 - (**CSRNet**) Conditional sequential modulation for efficient global image retouching.[[ECCV 2020]](https://arxiv.org/pdf/2009.10390) [[code]](https://github.com/hejingwenhejingwen/CSRNet)
 - (**3D-LUT**) Learning Image-adaptive 3D Lookup Tables for High Performance Photo Enhancement in Real-time.[[TPAMI 2020]](https://arxiv.org/pdf/2009.14468) [[code]](https://github.com/HuiZeng/Image-Adaptive-3DLUT)
 - **AdaInt**: Learning Adaptive Intervals for 3D Lookup Tables on Real-time Image Enhancement. [[CVPR 2022]](https://arxiv.org/pdf/2204.13983) [[code]](https://github.com/ImCharlesY/AdaInt)
