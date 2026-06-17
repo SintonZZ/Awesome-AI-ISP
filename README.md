@@ -74,6 +74,7 @@ A list of awesome AI-ISP works.
 - (**HDRNet**) Deep Bilateral Learning for Real-Time Image Enhancement.[[ACM TOG 2017]](https://groups.csail.mit.edu/graphics/hdrnet/data/hdrnet.pdf) [[code]](https://groups.csail.mit.edu/graphics/hdrnet/)
 - (**CSRNet**) Conditional sequential modulation for efficient global image retouching.[[ECCV 2020]](https://arxiv.org/pdf/2009.10390) [[code]](https://github.com/hejingwenhejingwen/CSRNet)
 - (**3D-LUT**) Learning Image-adaptive 3D Lookup Tables for High Performance Photo Enhancement in Real-time.[[TPAMI 2020]](https://arxiv.org/pdf/2009.14468) [[code]](https://github.com/HuiZeng/Image-Adaptive-3DLUT)
+- **SepLUT**: Separable Image-adaptive Lookup Tables for Real-time Image Enhancement. [[ECCV 2022]](https://arxiv.org/abs/2207.08351) [[code]](https://github.com/ImCharlesY/SepLUT)
 - **AdaInt**: Learning Adaptive Intervals for 3D Lookup Tables on Real-time Image Enhancement. [[CVPR 2022]](https://arxiv.org/pdf/2204.13983) [[code]](https://github.com/ImCharlesY/AdaInt)
 - Learning Tone Curves for Local Image Enhancement. [[IEEE ACCESS 2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9784427) [[code]](https://github.com/SamsungLabs/ltmnet)
 - **RSFNet**: A White-Box Image Retouching Approach using Region-Specific Color Filters. [[ICCV 2023]](https://arxiv.org/pdf/2303.08682) [[code]](https://github.com/vicky0522/rsfnet)
