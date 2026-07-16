@@ -108,6 +108,8 @@ A list of awesome AI-ISP works.
 - (**IMDN**)Lightweight Image Super-Resolution with Information Multi-distillation Network.[[ACM MM 2019]](https://arxiv.org/pdf/1909.11856v1) [[code]](https://github.com/Zheng222/IMDN)
 - (**RFDN**)Residual Feature Distillation Network for Lightweight Image Super-Resolution.[[AIM 2020 1st]](https://arxiv.org/abs/2009.11551) [[code]](https://github.com/njulj/RFDN)
 - ShuffleMixer: An Efficient ConvNet for Image Super-Resolution.[[NeurIPS 2022]](https://arxiv.org/pdf/2205.15175) [[code]](https://github.com/sunny2109/ShuffleMixer)
+- (**SPAN**)Swift Parameter-free Attention Network for Efficient Super-Resolution.[[CVPR 2024 NTIRE's ESR Challenge 1st place]](https://arxiv.org/abs/2311.12770) [[code]](https://github.com/hongyuanyu/SPAN)
+- Distillation-Supervised Convolutional Low-Rank Adaptation for Efficient Image Super-Resolution.[[CVPR 2025 NTIRE's ESR Challenge 1st place]](https://arxiv.org/abs/2504.11271) [[code]](https://github.com/Yaozzz666/DSCF-SR/)
 - EchoSR: Efficient Context Harnessing for Lightweight Image Super-Resolution. [[Information Fusion 2026]](https://arxiv.org/pdf/2605.17470) [[code]](https://github.com/funnyWang-Echoes/EchoSR)
 
 ## Resources
