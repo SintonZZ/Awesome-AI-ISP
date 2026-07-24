@@ -107,6 +107,7 @@ A list of awesome AI-ISP works.
 - (**CARN**)Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network.[[ECCV 2018]](https://arxiv.org/pdf/1803.08664)
 - (**IMDN**)Lightweight Image Super-Resolution with Information Multi-distillation Network.[[ACM MM 2019]](https://arxiv.org/pdf/1909.11856v1) [[code]](https://github.com/Zheng222/IMDN)
 - (**RFDN**)Residual Feature Distillation Network for Lightweight Image Super-Resolution.[[AIM 2020 1st]](https://arxiv.org/abs/2009.11551) [[code]](https://github.com/njulj/RFDN)
+- **Real-ESRGAN**: Training Real-World Blind Super-Resolution with Pure Synthetic Data. [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021W/AIM/papers/Wang_Real-ESRGAN_Training_Real-World_Blind_Super-Resolution_With_Pure_Synthetic_Data_ICCVW_2021_paper.pdf) [[code]](https://github.com/xinntao/real-esrgan)
 - ShuffleMixer: An Efficient ConvNet for Image Super-Resolution.[[NeurIPS 2022]](https://arxiv.org/pdf/2205.15175) [[code]](https://github.com/sunny2109/ShuffleMixer)
 - (**SPAN**)Swift Parameter-free Attention Network for Efficient Super-Resolution.[[CVPR 2024 NTIRE's ESR Challenge 1st place]](https://arxiv.org/abs/2311.12770) [[code]](https://github.com/hongyuanyu/SPAN)
 - Distillation-Supervised Convolutional Low-Rank Adaptation for Efficient Image Super-Resolution.[[CVPR 2025 NTIRE's ESR Challenge 1st place]](https://arxiv.org/abs/2504.11271) [[code]](https://github.com/Yaozzz666/DSCF-SR/)
