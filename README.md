@@ -95,7 +95,7 @@ A list of awesome AI-ISP works.
 ## AWB
 - Convolutional Color Constancy. [[paper]](https://arxiv.org/pdf/1507.00410)
 - (**C5**) Cross-Camera Convolutional Color Constancy. [[ICCV 2021]](https://arxiv.org/pdf/2011.11890) [[code]](https://github.com/mahmoudnafifi/C5)
-- Color constancy from a pure color view. [JOSA 2023][code](https://github.com/shuwei666/Color-Constancy-PCC/)
+- Color constancy from a pure color view. [JOSA 2023][[code]](https://github.com/shuwei666/Color-Constancy-PCC/)
 - Time-Aware Auto White Balance in Mobile Photography. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Afifi_Time-Aware_Auto_White_Balance_in_Mobile_Photography_ICCV_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/time-aware-awb)
 - Learning Camera-Agnostic White-Balance Preferences. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025W/MIPI/papers/Zhao_Learning_Camera-Agnostic_White-Balance_Preferences_ICCVW_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/aesthetics-pref-awb)
 - Integral Fast Fourier Color Constancy. [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Integral_Fast_Fourier_Color_Constancy_CVPR_2025_paper.pdf)
