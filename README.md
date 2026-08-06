@@ -2,6 +2,7 @@
 A list of awesome AI-ISP works. 
 ## 📜 Content
 - [ISP render](#isp-render)
+- [Dataset](#dataset)
 - [Image denoise](#image-denoise)
 - [Video denoise](#video-denoise)
 - [HDR](#hdr)
@@ -19,6 +20,10 @@ A list of awesome AI-ISP works.
 - Learning to See in the Extremely Dark. [[ICCV 2025]](https://arxiv.org/pdf/2506.21132) [[code]](https://github.com/JianghaiSCU/SIED)
 - Modular Neural Image Signal Processing. [[paper]](https://arxiv.org/pdf/2512.08564)
 - Learned Lightweight Smartphone ISP with Unpaired Data. [[CVPRW 2025]](https://arxiv.org/pdf/2505.10420) [[code]](https://github.com/AndreiiArhire/Learned-Lightweight-Smartphone-ISP-with-Unpaired-Data)
+## Dataset
+- CycleISP: Real Image Restoration via Improved Data Synthesis. [[CVPR2020 Oral]](https://arxiv.org/abs/2003.07761) [[code]](https://github.com/swz30/CycleISP)
+- Day-to-Night Image Synthesis for Training Nighttime Neural ISPs. [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Punnappurath_Day-to-Night_Image_Synthesis_for_Training_Nighttime_Neural_ISPs_CVPR_2022_paper.pdf) [[code]](https://github.com/SamsungLabs/day-to-night)
+- RawGen: Learning Camera Raw Image Generation.[[ECCV 2026]](https://arxiv.org/abs/2604.00093) [[project]](https://dy112.github.io/rawgen-page/)
 ## Image denoise
 - Architecture
   - (**PMRID**) Practical Deep Raw Image Denoising on Mobile Devices. [[ECCV 2020]](https://link.springer.com/chapter/10.1007/978-3-030-58539-6_1) [[code]](https://github.com/MegEngine/PMRID)
@@ -43,9 +48,7 @@ A list of awesome AI-ISP works.
 - Dateset-related
   - Unprocessing Images for Learned Raw Denoising. [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Brooks_Unprocessing_Images_for_Learned_Raw_Denoising_CVPR_2019_paper.pdf) [[code]](https://github.com/timothybrooks/unprocessing)
   - Learning Raw Image Denoising with Bayer Pattern Unification and Bayer Preserving Augmentation. [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Liu_Learning_Raw_Image_Denoising_With_Bayer_Pattern_Unification_and_Bayer_CVPRW_2019_paper.pdf) [[code]](https://github.com/Jiaming-Liu/BayerUnifyAug)
-  - CycleISP: Real Image Restoration via Improved Data Synthesis. [[CVPR2020 Oral]](https://arxiv.org/abs/2003.07761) [[code]](https://github.com/swz30/CycleISP)
   - Improving Image Restoration by Revisiting Global Information Aggregation. [[ECCV 2022]](https://link.springer.com/chapter/10.1007/978-3-031-20071-7_4) [[code]](https://github.com/megvii-research/TLC)
-  - Day-to-Night Image Synthesis for Training Nighttime Neural ISPs. [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Punnappurath_Day-to-Night_Image_Synthesis_for_Training_Nighttime_Neural_ISPs_CVPR_2022_paper.pdf) [[code]](https://github.com/SamsungLabs/day-to-night)
   - Learning to See in the Extremely Dark. [[ICCV 2025]](https://arxiv.org/pdf/2506.21132) [[code]](https://github.com/JianghaiSCU/SIED)
   
 ## Video denoise
