@@ -97,7 +97,7 @@ A list of awesome AI-ISP works.
   - **HVI**: A New Color Space for Low-light Image Enhancement. [[CVPR 2025]](https://arxiv.org/abs/2502.20272) [[code]](https://github.com/Fediory/HVI-CIDNet)
 
 ## AWB
-- (**C3**) Convolutional Color Constancy. [[paper]](https://arxiv.org/pdf/1507.00410)
+- (**C3**) Convolutional Color Constancy. [[ICCV 2015]](https://arxiv.org/pdf/1507.00410)
 - **FC4**: Fully Convolutional Color Constancy with Confidence-Weighted Pooling.[[CVPR 2017]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf)
 - (**FFCC**) Fast Fourier Color Constancy. [[cvpr 2017]](https://arxiv.org/pdf/1611.07596)
 - (**C4**) Cascading convolutional color constancy. [[AAAI 2020]](https://cdn.aaai.org/ojs/6966/6966-13-10195-1-10-20200525.pdf)
