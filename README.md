@@ -9,6 +9,7 @@ A list of awesome AI-ISP works.
 - [TMO](#tmo)
 - [AWB](#awb)
 - [Demosaicing](#demosaicing)
+- [Purple Fringing Removal](#purple-fringing-removal)
 - [Image retouching](#image-retouching)
 - [Low-Light enhancement](#low-light-enhancement)
 - [Super-Resolution](#super-resolution)
@@ -110,6 +111,9 @@ A list of awesome AI-ISP works.
 ## Demosaicing
 - Joint Demosaicing and Denoising with Self Guidance. [[CVPR 2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Joint_Demosaicing_and_Denoising_With_Self_Guidance_CVPR_2020_paper.pdf) [[code]](https://github.com/laulampaul/sgnet)
 - Joint Denoising and Demosaicking with Green Channel Prior for Real-world Burst Images. [[TIP 2021]](https://arxiv.org/pdf/2101.09870) [[code]](https://github.com/GuoShi28/GCP-Net)
+
+## Purple Fringing Removal
+- **DCA-LUT**: Deep Chromatic Alignment with 5D LUT for Purple Fringing Removal. [[AAAI 2026]](https://arxiv.org/pdf/2511.12066)
 
 ## Super-Resolution
 - (**CARN**)Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network.[[ECCV 2018]](https://arxiv.org/pdf/1803.08664)
