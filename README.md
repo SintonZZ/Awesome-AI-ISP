@@ -106,7 +106,7 @@ A list of awesome AI-ISP works.
 ### Fundamental
 - (**C3**) Convolutional Color Constancy. [[ICCV 2015]](https://arxiv.org/pdf/1507.00410)
 - **FC4**: Fully Convolutional Color Constancy with Confidence-Weighted Pooling.[[CVPR 2017]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf)
-- (**FFCC**) Fast Fourier Color Constancy. [[cvpr 2017]](https://arxiv.org/pdf/1611.07596)
+- (**FFCC**) Fast Fourier Color Constancy. [[cvpr 2017]](https://arxiv.org/pdf/1611.07596) [[unoffical code]](https://github.com/shuwei666/ffcc-python)
 - (**C4**) Cascading convolutional color constancy. [[AAAI 2020]](https://cdn.aaai.org/ojs/6966/6966-13-10195-1-10-20200525.pdf)
 - Robust pixel-wise illuminant estimation algorithm for images with a low bit-depth.[Optics Express 2024] [[code]](https://github.com/shuwei666/Robust-pixel-wise-illuminant-estimation)
 - Time-Aware Auto White Balance in Mobile Photography. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Afifi_Time-Aware_Auto_White_Balance_in_Mobile_Photography_ICCV_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/time-aware-awb)
