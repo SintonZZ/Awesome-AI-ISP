@@ -46,6 +46,7 @@ A list of awesome AI-ISP works.
   - (**S2R**) From Synthetic to Real: A Calibration-free Pipeline for Few-shot Raw Image. [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024W/MIPI/papers/Li_From_Synthetic_to_Real_A_Calibration-free_Pipeline_for_Few-shot_Raw_CVPRW_2024_paper.pdf)
   - Noise Modeling in One Hour: Minimizing Preparation Efforts for Self-supervised Low-Light RAW Image Denoising. [[CVPR 2025]](https://arxiv.org/pdf/2505.00045) [[code]](https://github.com/SonyResearch/raw_image_denoising)
   - (**PNNP**) Learning Physics-Informed Noise Models from Dark Frames for Low-Light Raw Image Denoising. [[TPAMI 2026]](https://arxiv.org/abs/2310.09126) [[code]](https://github.com/fenghansen/PNNP/tree/main)
+  - **2-Shots in the Dark**: Low-Light Denoising with Minimal Data Acquisition. [[CVPR 2026]](https://arxiv.org/pdf/2512.03245) [[code]](https://github.com/IVRL/2-Shots-in-the-Dark)
 - Dateset-related
   - Unprocessing Images for Learned Raw Denoising. [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Brooks_Unprocessing_Images_for_Learned_Raw_Denoising_CVPR_2019_paper.pdf) [[code]](https://github.com/timothybrooks/unprocessing)
   - Learning Raw Image Denoising with Bayer Pattern Unification and Bayer Preserving Augmentation. [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Liu_Learning_Raw_Image_Denoising_With_Bayer_Pattern_Unification_and_Bayer_CVPRW_2019_paper.pdf) [[code]](https://github.com/Jiaming-Liu/BayerUnifyAug)
