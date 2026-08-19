@@ -113,7 +113,7 @@ A list of awesome AI-ISP works.
 - (**IFFCC**) Integral Fast Fourier Color Constancy. [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Integral_Fast_Fourier_Color_Constancy_CVPR_2025_paper.pdf)
 ### Cross-Camera
 - (**C5**) **Cross-Camera** Convolutional Color Constancy. [[ICCV 2021]](https://arxiv.org/pdf/2011.11890) [[code]](https://github.com/mahmoudnafifi/C5)
-- (**DMCC**) Effective **cross-sensor** color constancy using a dual-mapping strategy.[JOSA A 2024] [[code]](https://github.com/shuwei666/DMCC-Cross-sensor-color-constancy)
+- (**DMCC**) Effective **cross-sensor** color constancy using a dual-mapping strategy.[JOSA A 2024](https://arxiv.org/pdf/2311.11773) [[code]](https://github.com/shuwei666/DMCC-Cross-sensor-color-constancy)
 - Learning **Camera-Agnostic** White-Balance Preferences. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025W/MIPI/papers/Zhao_Learning_Camera-Agnostic_White-Balance_Preferences_ICCVW_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/aesthetics-pref-awb)
 - **CCMNet**: Leveraging Calibrated Color Correction Matrices for **Cross-Camera** Color Constancy. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_CCMNet_Leveraging_Calibrated_Color_Correction_Matrices_for_Cross-Camera_Color_Constancy_ICCV_2025_paper.pdf) [[project]](https://www.dykim.me/projects/ccmnet)
 ### Pure Color
