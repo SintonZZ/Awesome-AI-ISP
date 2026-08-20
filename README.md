@@ -112,7 +112,7 @@ A list of awesome AI-ISP works.
 - Time-Aware Auto White Balance in Mobile Photography. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Afifi_Time-Aware_Auto_White_Balance_in_Mobile_Photography_ICCV_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/time-aware-awb)
 - (**IFFCC**) Integral Fast Fourier Color Constancy. [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Integral_Fast_Fourier_Color_Constancy_CVPR_2025_paper.pdf)
 ### Cross-Camera
-- (**SIIE**) Sensor-Independent Illumination Estimation for DNN Models. [[BMVC 2019]] [[project]](https://yorkucvil.github.io/projects/public_html/siie/index.html)
+- (**SIIE**) Sensor-Independent Illumination Estimation for DNN Models. [[BMVC 2019]](https://arxiv.org/abs/1912.06888) [[project]](https://yorkucvil.github.io/projects/public_html/siie/index.html)
 - (**SST**) Cross-dataset Color Constancy Revisited Using Sensor-to-Sensor Transfer. [[BMVC 2020]](https://www.bmva-archive.org.uk/bmvc/2020/assets/papers/0082.pdf)
 - (**C5**) **Cross-Camera** Convolutional Color Constancy. [[ICCV 2021]](https://arxiv.org/pdf/2011.11890) [[code]](https://github.com/mahmoudnafifi/C5)
 - (**DALCC**) Domain Adversarial Learning for Color Constancy. [[IJCAI 2022]](https://www.ijcai.org/proceedings/2022/0236.pdf)
