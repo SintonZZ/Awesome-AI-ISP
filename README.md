@@ -123,6 +123,7 @@ A list of awesome AI-ISP works.
 ### Pure Color
 - (**PCC**) Color constancy from a **pure color** view. [[JOSA A 2023]](https://shuweiyue.com/pdf/josa-pcc2023.pdf) [[code]](https://github.com/shuwei666/Color-Constancy-PCC/)
 - (**ePPC**) Color Constancy From a **Pure Color** View: An Edge-Aware Algorithm for a Wider Application.[[code]](https://github.com/NonBee98/epcc)
+- **SAFE**: Scene-Aware Feature Modulation for Color Constancy with Learned Color Space in Pure-Color Scenes. [[paper]](https://arxiv.org/html/2608.13967v1)
 
 ## Demosaicing
 - Joint Demosaicing and Denoising with Self Guidance. [[CVPR 2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Joint_Demosaicing_and_Denoising_With_Self_Guidance_CVPR_2020_paper.pdf) [[code]](https://github.com/laulampaul/sgnet)
