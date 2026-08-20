@@ -117,7 +117,7 @@ A list of awesome AI-ISP works.
 - Learning **Camera-Agnostic** White-Balance Preferences. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025W/MIPI/papers/Zhao_Learning_Camera-Agnostic_White-Balance_Preferences_ICCVW_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/aesthetics-pref-awb)
 - **CCMNet**: Leveraging Calibrated Color Correction Matrices for **Cross-Camera** Color Constancy. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_CCMNet_Leveraging_Calibrated_Color_Correction_Matrices_for_Cross-Camera_Color_Constancy_ICCV_2025_paper.pdf) [[project]](https://www.dykim.me/projects/ccmnet)
 ### Pure Color
-- (**PCC**) Color constancy from a **pure color** view. [JOSA A 2023][[code]](https://github.com/shuwei666/Color-Constancy-PCC/)
+- (**PCC**) Color constancy from a **pure color** view. [[JOSA A 2023]](https://shuweiyue.com/pdf/josa-pcc2023.pdf) [[code]](https://github.com/shuwei666/Color-Constancy-PCC/)
 - (**ePPC**) Color Constancy From a **Pure Color** View: An Edge-Aware Algorithm for a Wider Application.[[code]](https://github.com/NonBee98/epcc)
 
 ## Demosaicing
