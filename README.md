@@ -128,6 +128,9 @@ A list of awesome AI-ISP works.
 ### Multi-illuminant
 - (**AID**) Attentive Illumination Decomposition Model for Multi-Illuminant White Balancing. [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Attentive_Illumination_Decomposition_Model_for_Multi-Illuminant_White_Balancing_CVPR_2024_paper.pdf)
 - (**IFFCC**) Integral Fast Fourier Color Constancy. [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Integral_Fast_Fourier_Color_Constancy_CVPR_2025_paper.pdf)
+### Night-time
+- Nighttime Color Constancy Using Robust Gray Pixels. [[JOSA A 2024]](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-41-3-476)
+- **RL-AWB**: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes. [[ECCV 2026]](https://arxiv.org/abs/2601.05249) [[project]](https://ntuneillee.github.io/research/rl-awb/)
 
 ## Demosaicing
 - Joint Demosaicing and Denoising with Self Guidance. [[CVPR 2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Joint_Demosaicing_and_Denoising_With_Self_Guidance_CVPR_2020_paper.pdf) [[code]](https://github.com/laulampaul/sgnet)
