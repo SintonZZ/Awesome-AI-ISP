@@ -109,7 +109,6 @@ A list of awesome AI-ISP works.
   - (**FFCC**) Fast Fourier Color Constancy. [[CVPR 2017]](https://arxiv.org/pdf/1611.07596) [[unoffical code]](https://github.com/shuwei666/ffcc-python)
   - (**C4**) Cascading convolutional color constancy. [[AAAI 2020]](https://cdn.aaai.org/ojs/6966/6966-13-10195-1-10-20200525.pdf)
   - **CLCC**: Contrastive Learning for Color Constancy. [[CVPR 2021]](https://arxiv.org/pdf/2106.04989)
-  - Robust pixel-wise illuminant estimation algorithm for images with a low bit-depth.[Optics Express 2024] [[code]](https://github.com/shuwei666/Robust-pixel-wise-illuminant-estimation)
   - Time-Aware Auto White Balance in Mobile Photography. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Afifi_Time-Aware_Auto_White_Balance_in_Mobile_Photography_ICCV_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/time-aware-awb)
 
 - Cross-Camera
@@ -126,6 +125,7 @@ A list of awesome AI-ISP works.
   - (**ePPC**) Color Constancy From a **Pure Color** View: An Edge-Aware Algorithm for a Wider Application.[[code]](https://github.com/NonBee98/epcc)
   - **SAFE**: Scene-Aware Feature Modulation for Color Constancy with Learned Color Space in Pure-Color Scenes. [[paper]](https://arxiv.org/html/2608.13967v1)
 - Multi-illuminant
+  - Robust pixel-wise illuminant estimation algorithm for images with a low bit-depth.[Optics Express 2024] [[code]](https://github.com/shuwei666/Robust-pixel-wise-illuminant-estimation)
   - (**AID**) Attentive Illumination Decomposition Model for Multi-Illuminant White Balancing. [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Attentive_Illumination_Decomposition_Model_for_Multi-Illuminant_White_Balancing_CVPR_2024_paper.pdf)
   - (**IFFCC**) Integral Fast Fourier Color Constancy. [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Integral_Fast_Fourier_Color_Constancy_CVPR_2025_paper.pdf)
 - Night-time
