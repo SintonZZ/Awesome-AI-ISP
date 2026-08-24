@@ -98,39 +98,39 @@ A list of awesome AI-ISP works.
   - **HVI**: A New Color Space for Low-light Image Enhancement. [[CVPR 2025]](https://arxiv.org/abs/2502.20272) [[code]](https://github.com/Fediory/HVI-CIDNet)
 
 ## AWB
-### Dataset
-- Color Checker. [[CVPR 2008]](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/01/CVPR08-ColorConst.pdf) [[Download]](https://www2.cs.sfu.ca/~colour/data/shi_gehler/)
-- NUS-8 [[JOSA.A 2014]](https://www.cse.yorku.ca/~mbrown/pdf/ColorConstancyJOSAv10.pdf) [[Download]](https://yorkucvil.github.io/projects/public_html/illuminant/illuminant.html)
-- INTEL-TAU: A Color Constancy Dataset. [[paper]](https://arxiv.org/abs/1910.10404) [[Download]](https://etsin.fairdata.fi/dataset/f0570a3f-3d77-4f44-9ef1-99ab4878f17c)
-- The **Cube++** Illumination Estimation Dataset. [[IEEE ACCESS 2020]](https://arxiv.org/abs/2011.10028) [[project]](https://github.com/Visillect/CubePlusPlus)
-### Fundamental
-- (**CCC**) Convolutional Color Constancy. [[ICCV 2015]](https://arxiv.org/pdf/1507.00410)
-- **FC4**: Fully Convolutional Color Constancy with Confidence-Weighted Pooling.[[CVPR 2017]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf)
-- (**FFCC**) Fast Fourier Color Constancy. [[CVPR 2017]](https://arxiv.org/pdf/1611.07596) [[unoffical code]](https://github.com/shuwei666/ffcc-python)
-- (**C4**) Cascading convolutional color constancy. [[AAAI 2020]](https://cdn.aaai.org/ojs/6966/6966-13-10195-1-10-20200525.pdf)
-- **CLCC**: Contrastive Learning for Color Constancy. [[CVPR 2021]](https://arxiv.org/pdf/2106.04989)
-- Robust pixel-wise illuminant estimation algorithm for images with a low bit-depth.[Optics Express 2024] [[code]](https://github.com/shuwei666/Robust-pixel-wise-illuminant-estimation)
-- Time-Aware Auto White Balance in Mobile Photography. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Afifi_Time-Aware_Auto_White_Balance_in_Mobile_Photography_ICCV_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/time-aware-awb)
+- Dataset
+  - Color Checker. [[CVPR 2008]](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/01/CVPR08-ColorConst.pdf) [[Download]](https://www2.cs.sfu.ca/~colour/data/shi_gehler/)
+  - NUS-8 [[JOSA.A 2014]](https://www.cse.yorku.ca/~mbrown/pdf/ColorConstancyJOSAv10.pdf) [[Download]](https://yorkucvil.github.io/projects/public_html/illuminant/illuminant.html)
+  - INTEL-TAU: A Color Constancy Dataset. [[paper]](https://arxiv.org/abs/1910.10404) [[Download]](https://etsin.fairdata.fi/dataset/f0570a3f-3d77-4f44-9ef1-99ab4878f17c)
+  - The **Cube++** Illumination Estimation Dataset. [[IEEE ACCESS 2020]](https://arxiv.org/abs/2011.10028) [[project]](https://github.com/Visillect/CubePlusPlus)
+- Fundamental
+  - (**CCC**) Convolutional Color Constancy. [[ICCV 2015]](https://arxiv.org/pdf/1507.00410)
+  - **FC4**: Fully Convolutional Color Constancy with Confidence-Weighted Pooling.[[CVPR 2017]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf)
+  - (**FFCC**) Fast Fourier Color Constancy. [[CVPR 2017]](https://arxiv.org/pdf/1611.07596) [[unoffical code]](https://github.com/shuwei666/ffcc-python)
+  - (**C4**) Cascading convolutional color constancy. [[AAAI 2020]](https://cdn.aaai.org/ojs/6966/6966-13-10195-1-10-20200525.pdf)
+  - **CLCC**: Contrastive Learning for Color Constancy. [[CVPR 2021]](https://arxiv.org/pdf/2106.04989)
+  - Robust pixel-wise illuminant estimation algorithm for images with a low bit-depth.[Optics Express 2024] [[code]](https://github.com/shuwei666/Robust-pixel-wise-illuminant-estimation)
+  - Time-Aware Auto White Balance in Mobile Photography. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Afifi_Time-Aware_Auto_White_Balance_in_Mobile_Photography_ICCV_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/time-aware-awb)
 
-### Cross-Camera
-- (**SIIE**) Sensor-Independent Illumination Estimation for DNN Models. [[BMVC 2019]](https://arxiv.org/abs/1912.06888) [[project]](https://yorkucvil.github.io/projects/public_html/siie/index.html)
-- (**SST**) Cross-dataset Color Constancy Revisited Using Sensor-to-Sensor Transfer. [[BMVC 2020]](https://www.bmva-archive.org.uk/bmvc/2020/assets/papers/0082.pdf)
-- (**C5**) **Cross-Camera** Convolutional Color Constancy. [[ICCV 2021]](https://arxiv.org/pdf/2011.11890) [[code]](https://github.com/mahmoudnafifi/C5)
-- (**DALCC**) Domain Adversarial Learning for Color Constancy. [[IJCAI 2022]](https://www.ijcai.org/proceedings/2022/0236.pdf)
-- Color Constancy: How to Deal with Camera Bias? [[BMVC 2023]](https://papers.bmvc2023.org/0643.pdf)
-- (**DMCC**) Effective **cross-sensor** color constancy using a dual-mapping strategy. [[JOSA A 2024]](https://arxiv.org/pdf/2311.11773) [[code]](https://github.com/shuwei666/DMCC-Cross-sensor-color-constancy)
-- Learning **Camera-Agnostic** White-Balance Preferences. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025W/MIPI/papers/Zhao_Learning_Camera-Agnostic_White-Balance_Preferences_ICCVW_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/aesthetics-pref-awb)
-- **CCMNet**: Leveraging Calibrated Color Correction Matrices for **Cross-Camera** Color Constancy. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_CCMNet_Leveraging_Calibrated_Color_Correction_Matrices_for_Cross-Camera_Color_Constancy_ICCV_2025_paper.pdf) [[project]](https://www.dykim.me/projects/ccmnet)
-### Pure Color
-- (**PCC**) Color constancy from a **pure color** view. [[JOSA A 2023]](https://shuweiyue.com/pdf/josa-pcc2023.pdf) [[code]](https://github.com/shuwei666/Color-Constancy-PCC/)
-- (**ePPC**) Color Constancy From a **Pure Color** View: An Edge-Aware Algorithm for a Wider Application.[[code]](https://github.com/NonBee98/epcc)
-- **SAFE**: Scene-Aware Feature Modulation for Color Constancy with Learned Color Space in Pure-Color Scenes. [[paper]](https://arxiv.org/html/2608.13967v1)
-### Multi-illuminant
-- (**AID**) Attentive Illumination Decomposition Model for Multi-Illuminant White Balancing. [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Attentive_Illumination_Decomposition_Model_for_Multi-Illuminant_White_Balancing_CVPR_2024_paper.pdf)
-- (**IFFCC**) Integral Fast Fourier Color Constancy. [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Integral_Fast_Fourier_Color_Constancy_CVPR_2025_paper.pdf)
-### Night-time
-- Nighttime Color Constancy Using Robust Gray Pixels. [[JOSA A 2024]](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-41-3-476)
-- **RL-AWB**: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes. [[ECCV 2026]](https://arxiv.org/abs/2601.05249) [[project]](https://ntuneillee.github.io/research/rl-awb/)
+- Cross-Camera
+  - (**SIIE**) Sensor-Independent Illumination Estimation for DNN Models. [[BMVC 2019]](https://arxiv.org/abs/1912.06888) [[project]](https://yorkucvil.github.io/projects/public_html/siie/index.html)
+  - (**SST**) Cross-dataset Color Constancy Revisited Using Sensor-to-Sensor Transfer. [[BMVC 2020]](https://www.bmva-archive.org.uk/bmvc/2020/assets/papers/0082.pdf)
+  - (**C5**) **Cross-Camera** Convolutional Color Constancy. [[ICCV 2021]](https://arxiv.org/pdf/2011.11890) [[code]](https://github.com/mahmoudnafifi/C5)
+  - (**DALCC**) Domain Adversarial Learning for Color Constancy. [[IJCAI 2022]](https://www.ijcai.org/proceedings/2022/0236.pdf)
+  - Color Constancy: How to Deal with Camera Bias? [[BMVC 2023]](https://papers.bmvc2023.org/0643.pdf)
+  - (**DMCC**) Effective **cross-sensor** color constancy using a dual-mapping strategy. [[JOSA A 2024]](https://arxiv.org/pdf/2311.11773) [[code]](https://github.com/shuwei666/DMCC-Cross-sensor-color-constancy)
+  - Learning **Camera-Agnostic** White-Balance Preferences. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025W/MIPI/papers/Zhao_Learning_Camera-Agnostic_White-Balance_Preferences_ICCVW_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/aesthetics-pref-awb)
+  - **CCMNet**: Leveraging Calibrated Color Correction Matrices for **Cross-Camera** Color Constancy. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_CCMNet_Leveraging_Calibrated_Color_Correction_Matrices_for_Cross-Camera_Color_Constancy_ICCV_2025_paper.pdf) [[project]](https://www.dykim.me/projects/ccmnet)
+- Pure Color
+  - (**PCC**) Color constancy from a **pure color** view. [[JOSA A 2023]](https://shuweiyue.com/pdf/josa-pcc2023.pdf) [[code]](https://github.com/shuwei666/Color-Constancy-PCC/)
+  - (**ePPC**) Color Constancy From a **Pure Color** View: An Edge-Aware Algorithm for a Wider Application.[[code]](https://github.com/NonBee98/epcc)
+  - **SAFE**: Scene-Aware Feature Modulation for Color Constancy with Learned Color Space in Pure-Color Scenes. [[paper]](https://arxiv.org/html/2608.13967v1)
+- Multi-illuminant
+  - (**AID**) Attentive Illumination Decomposition Model for Multi-Illuminant White Balancing. [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Attentive_Illumination_Decomposition_Model_for_Multi-Illuminant_White_Balancing_CVPR_2024_paper.pdf)
+  - (**IFFCC**) Integral Fast Fourier Color Constancy. [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Integral_Fast_Fourier_Color_Constancy_CVPR_2025_paper.pdf)
+- Night-time
+  - Nighttime Color Constancy Using Robust Gray Pixels. [[JOSA A 2024]](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-41-3-476)
+  - **RL-AWB**: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes. [[ECCV 2026]](https://arxiv.org/abs/2601.05249) [[project]](https://ntuneillee.github.io/research/rl-awb/)
 
 ## Demosaicing
 - Joint Demosaicing and Denoising with Self Guidance. [[CVPR 2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Joint_Demosaicing_and_Denoising_With_Self_Guidance_CVPR_2020_paper.pdf) [[code]](https://github.com/laulampaul/sgnet)
