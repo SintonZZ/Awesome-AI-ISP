@@ -106,7 +106,7 @@ A list of awesome AI-ISP works.
 - Fundamental
   - (**CCC**) Convolutional Color Constancy. [[ICCV 2015]](https://arxiv.org/pdf/1507.00410)
   - **FC4**: Fully Convolutional Color Constancy with Confidence-Weighted Pooling.[[CVPR 2017]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf)
-  - (**FFCC**) Fast Fourier Color Constancy. [[CVPR 2017]](https://arxiv.org/pdf/1611.07596) [[unoffical code]](https://github.com/shuwei666/ffcc-python)
+  - (**FFCC**) Fast Fourier Color Constancy. [[CVPR 2017]](https://arxiv.org/pdf/1611.07596) [[MATLAB]](https://github.com/google/ffcc) [[Python]](https://github.com/shuwei666/ffcc-python)
   - Quasi-Unsupervised Color Constancy. [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Bianco_Quasi-Unsupervised_Color_Constancy_CVPR_2019_paper.pdf) [[project]](https://claudio-unipv.github.io/quasi-unsupervised-cc/)
   - (**C4**) Cascading convolutional color constancy. [[AAAI 2020]](https://cdn.aaai.org/ojs/6966/6966-13-10195-1-10-20200525.pdf)
   - **CLCC**: Contrastive Learning for Color Constancy. [[CVPR 2021]](https://arxiv.org/pdf/2106.04989)
