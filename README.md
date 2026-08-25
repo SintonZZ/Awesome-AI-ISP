@@ -133,6 +133,7 @@ A list of awesome AI-ISP works.
   - (**IFFCC**) Integral Fast Fourier Color Constancy. [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Integral_Fast_Fourier_Color_Constancy_CVPR_2025_paper.pdf)
 - Night-time
   - Nighttime Color Constancy Using Robust Gray Pixels. [[JOSA A 2024]](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-41-3-476)
+  - NightCC: Nighttime Color Constancy via Adaptive Channel Masking. [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_NightCC_Nighttime_Color_Constancy_via_Adaptive_Channel_Masking_CVPR_2024_paper.pdf)
   - **RL-AWB**: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes. [[ECCV 2026]](https://arxiv.org/abs/2601.05249) [[project]](https://ntuneillee.github.io/research/rl-awb/)
 
 ## Demosaicing
