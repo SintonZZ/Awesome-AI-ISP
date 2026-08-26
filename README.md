@@ -112,7 +112,6 @@ A list of awesome AI-ISP works.
   - **CLCC**: Contrastive Learning for Color Constancy. [[CVPR 2021]](https://arxiv.org/pdf/2106.04989)
   - Time-Aware Auto White Balance in Mobile Photography. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Afifi_Time-Aware_Auto_White_Balance_in_Mobile_Photography_ICCV_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/time-aware-awb)
   - **GCC**: Generative Color Constancy via Diffusing a Color Checker. [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/html/Chang_GCC_Generative_Color_Constancy_via_Diffusing_a_Color_Checker_CVPR_2025_paper.html) [[project]](https://chenwei891213.github.io/GCC/)
-  - White-Balance First, Adjust Later: Cross-Camera Color Constancy via Vision-Language Evaluation. [[CVPR 2026]](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_White-Balance_First_Adjust_Later_Cross-Camera_Color_Constancy_via_Vision-Language_Evaluation_CVPR_2026_paper.pdf)
 
 - Cross-Camera
   - (**SIIE**) Sensor-Independent Illumination Estimation for DNN Models. [[BMVC 2019]](https://arxiv.org/abs/1912.06888) [[project]](https://yorkucvil.github.io/projects/public_html/siie/index.html)
@@ -123,6 +122,7 @@ A list of awesome AI-ISP works.
   - (**DMCC**) Effective **cross-sensor** color constancy using a dual-mapping strategy. [[JOSA A 2024]](https://arxiv.org/pdf/2311.11773) [[code]](https://github.com/shuwei666/DMCC-Cross-sensor-color-constancy)
   - Learning **Camera-Agnostic** White-Balance Preferences. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025W/MIPI/papers/Zhao_Learning_Camera-Agnostic_White-Balance_Preferences_ICCVW_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/aesthetics-pref-awb)
   - **CCMNet**: Leveraging Calibrated Color Correction Matrices for **Cross-Camera** Color Constancy. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_CCMNet_Leveraging_Calibrated_Color_Correction_Matrices_for_Cross-Camera_Color_Constancy_ICCV_2025_paper.pdf) [[project]](https://www.dykim.me/projects/ccmnet)
+  - White-Balance First, Adjust Later: Cross-Camera Color Constancy via Vision-Language Evaluation. [[CVPR 2026]](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_White-Balance_First_Adjust_Later_Cross-Camera_Color_Constancy_via_Vision-Language_Evaluation_CVPR_2026_paper.pdf)
 - Pure Color
   - (**PCC**) Color constancy from a **pure color** view. [[JOSA A 2023]](https://shuweiyue.com/pdf/josa-pcc2023.pdf) [[code]](https://github.com/shuwei666/Color-Constancy-PCC/)
   - (**ePPC**) Color Constancy From a **Pure Color** View: An Edge-Aware Algorithm for a Wider Application.[[code]](https://github.com/NonBee98/epcc)
