@@ -104,6 +104,7 @@ A list of awesome AI-ISP works.
   - INTEL-TAU: A Color Constancy Dataset. [[paper]](https://arxiv.org/abs/1910.10404) [[Download]](https://etsin.fairdata.fi/dataset/f0570a3f-3d77-4f44-9ef1-99ab4878f17c)
   - The **Cube++** Illumination Estimation Dataset. [[IEEE ACCESS 2020]](https://arxiv.org/abs/2011.10028) [[project]](https://github.com/Visillect/CubePlusPlus)
 - Fundamental
+  - Effective Learning-Based Illuminant Estimation Using Simple Features. [[CVPR 2015]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Cheng_Effective_Learning-Based_Illuminant_2015_CVPR_paper.pdf)
   - (**CCC**) Convolutional Color Constancy. [[ICCV 2015]](https://arxiv.org/pdf/1507.00410)
   - **FC4**: Fully Convolutional Color Constancy with Confidence-Weighted Pooling.[[CVPR 2017]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf)
   - (**FFCC**) Fast Fourier Color Constancy. [[CVPR 2017]](https://arxiv.org/pdf/1611.07596) [[MATLAB]](https://github.com/google/ffcc) [[Python]](https://github.com/shuwei666/ffcc-python)
