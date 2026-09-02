@@ -125,6 +125,7 @@ A list of awesome AI-ISP works.
   - Learning **Camera-Agnostic** White-Balance Preferences. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025W/MIPI/papers/Zhao_Learning_Camera-Agnostic_White-Balance_Preferences_ICCVW_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/aesthetics-pref-awb)
   - **CCMNet**: Leveraging Calibrated Color Correction Matrices for **Cross-Camera** Color Constancy. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_CCMNet_Leveraging_Calibrated_Color_Correction_Matrices_for_Cross-Camera_Color_Constancy_ICCV_2025_paper.pdf) [[project]](https://www.dykim.me/projects/ccmnet)
   - White-Balance First, Adjust Later: Cross-Camera Color Constancy via Vision-Language Evaluation. [[CVPR 2026]](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_White-Balance_First_Adjust_Later_Cross-Camera_Color_Constancy_via_Vision-Language_Evaluation_CVPR_2026_paper.pdf)
+  - (**HybridCC**) Multi-Block-Attention-based Color Constancy. [[ECCV 2026]](https://oguzhanulucan.github.io/hybridcc-project-page/)
 - Pure Color
   - (**PCC**) Color constancy from a **pure color** view. [[JOSA A 2023]](https://shuweiyue.com/pdf/josa-pcc2023.pdf) [[code]](https://github.com/shuwei666/Color-Constancy-PCC/)
   - (**ePPC**) Color Constancy From a **Pure Color** View: An Edge-Aware Algorithm for a Wider Application.[[code]](https://github.com/NonBee98/epcc)
