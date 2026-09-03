@@ -113,7 +113,6 @@ A list of awesome AI-ISP works.
   - (**C4**) Cascading convolutional color constancy. [[AAAI 2020]](https://cdn.aaai.org/ojs/6966/6966-13-10195-1-10-20200525.pdf)
   - **CLCC**: Contrastive Learning for Color Constancy. [[CVPR 2021]](https://arxiv.org/pdf/2106.04989)
   - Time-Aware Auto White Balance in Mobile Photography. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Afifi_Time-Aware_Auto_White_Balance_in_Mobile_Photography_ICCV_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/time-aware-awb)
-  - **GCC**: Generative Color Constancy via Diffusing a Color Checker. [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/html/Chang_GCC_Generative_Color_Constancy_via_Diffusing_a_Color_Checker_CVPR_2025_paper.html) [[project]](https://chenwei891213.github.io/GCC/)
 
 - Cross-Camera
   - (**SIIE**) Sensor-Independent Illumination Estimation for DNN Models. [[BMVC 2019]](https://arxiv.org/abs/1912.06888) [[project]](https://yorkucvil.github.io/projects/public_html/siie/index.html)
@@ -122,6 +121,7 @@ A list of awesome AI-ISP works.
   - (**DALCC**) Domain Adversarial Learning for Color Constancy. [[IJCAI 2022]](https://www.ijcai.org/proceedings/2022/0236.pdf)
   - Color Constancy: How to Deal with Camera Bias? [[BMVC 2023]](https://papers.bmvc2023.org/0643.pdf)
   - (**DMCC**) Effective **cross-sensor** color constancy using a dual-mapping strategy. [[JOSA A 2024]](https://arxiv.org/pdf/2311.11773) [[code]](https://github.com/shuwei666/DMCC-Cross-sensor-color-constancy)
+  - **GCC**: Generative Color Constancy via Diffusing a Color Checker. [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/html/Chang_GCC_Generative_Color_Constancy_via_Diffusing_a_Color_Checker_CVPR_2025_paper.html) [[project]](https://chenwei891213.github.io/GCC/)
   - Learning **Camera-Agnostic** White-Balance Preferences. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025W/MIPI/papers/Zhao_Learning_Camera-Agnostic_White-Balance_Preferences_ICCVW_2025_paper.pdf) [[code]](https://github.com/SamsungLabs/aesthetics-pref-awb)
   - **CCMNet**: Leveraging Calibrated Color Correction Matrices for **Cross-Camera** Color Constancy. [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_CCMNet_Leveraging_Calibrated_Color_Correction_Matrices_for_Cross-Camera_Color_Constancy_ICCV_2025_paper.pdf) [[project]](https://www.dykim.me/projects/ccmnet)
   - White-Balance First, Adjust Later: Cross-Camera Color Constancy via Vision-Language Evaluation. [[CVPR 2026]](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_White-Balance_First_Adjust_Later_Cross-Camera_Color_Constancy_via_Vision-Language_Evaluation_CVPR_2026_paper.pdf)
