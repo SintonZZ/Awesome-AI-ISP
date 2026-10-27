@@ -107,6 +107,7 @@ A list of awesome AI-ISP works.
   - Effective Learning-Based Illuminant Estimation Using Simple Features. [[CVPR 2015]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Cheng_Effective_Learning-Based_Illuminant_2015_CVPR_paper.pdf)
   - Color Constancy Using CNNs. [[CVPR 2015]](https://openaccess.thecvf.com/content_cvpr_workshops_2015/W03/papers/Bianco_Color_Constancy_Using_2015_CVPR_paper.pdf)
   - (**CCC**) Convolutional Color Constancy. [[ICCV 2015]](https://arxiv.org/pdf/1507.00410)
+  - (**DS-Net**) Deep Specialized Network for Illuminant Estimation. [[ECCV 2016]](https://link.springer.com/content/pdf/10.1007/978-3-319-46493-0_23.pdf)
   - **FC4**: Fully Convolutional Color Constancy with Confidence-Weighted Pooling.[[CVPR 2017]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf)
   - (**FFCC**) Fast Fourier Color Constancy. [[CVPR 2017]](https://arxiv.org/pdf/1611.07596) [[MATLAB]](https://github.com/google/ffcc) [[Python]](https://github.com/shuwei666/ffcc-python)
   - Quasi-Unsupervised Color Constancy. [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Bianco_Quasi-Unsupervised_Color_Constancy_CVPR_2019_paper.pdf) [[project]](https://claudio-unipv.github.io/quasi-unsupervised-cc/)
