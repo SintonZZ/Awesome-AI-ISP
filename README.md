@@ -88,6 +88,8 @@ A list of awesome AI-ISP works.
 
 ## Low-Light enhancement
 - Dataset
+  - (**UHD-LOL**) Ultra-High-Definition Low-Light Image Enhancement: A Benchmark and Transformer-Based Method. [[AAAI 2023]](https://openreview.net/pdf/3d81c11d75e8c6334873dd75f3cb81c1ea917ee9.pdf?utm_source=chatgpt.com)
+  - (**UHD-LL**) Embedding Fourier for Ultra-High-Definition Low-Light Image Enhancement. [[ICLR 2023]](https://openreview.net/pdf?id=5N0wtJZ89r9)
   - Towards Realistic Low-Light Image Enhancement via ISP–Driven Data Modeling. [[paper]](https://arxiv.org/pdf/2504.12204) [[code]](https://github.com/wzhsysu/LLIE)
   - Seeing in the Dark: Synthesizing Underexposure for More Robust Underwater Image Augmentation. [[WACV 2026]](https://openaccess.thecvf.com/content/WACV2026W/WVAQ/papers/Awad_Seeing_in_the_Dark_Synthesizing_Underexposure_for_More_Robust_Underwater_WACVW_2026_paper.pdf)
 - Architecture
